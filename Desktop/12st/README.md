@@ -1,13 +1,28 @@
-# PropShop Ecommerce Website With Django + React
-
-Live Demo can be viewed at https://www.buildproshop.com/
-
-This project is from my Django + React collaboration wih Brad Traversy. Full Course: https://www.udemy.com/course/django-with-react-an-ecommerce-website/?couponCode=387F19CD4087385E87C1
+# 12번가 Ecommerce Website With Django + React
 
 
-![DEMO](../master/static/images/proshop_django_demo.png)
+![KakaoTalk_20220824_021043989](https://user-images.githubusercontent.com/71229129/186226854-3564670b-45d6-413c-ba22-d17b9d855fed.png)
+<br>
+<hr>
+<br>
 
+![KakaoTalk_20220824_021233149](https://user-images.githubusercontent.com/71229129/186227038-77baa68f-c391-43bb-8892-4a50d75b6532.png)
 
+<br>
+<hr>
+<br>
+
+![KakaoTalk_20220824_021600733](https://user-images.githubusercontent.com/71229129/186227049-92f06653-20f0-41b3-b174-a3e76c4d32bb.png)
+
+<br>
+<hr>
+<br>
+
+![KakaoTalk_20220824_021117269](https://user-images.githubusercontent.com/71229129/186227051-a57e6cac-128a-4106-8ed8-b0184b92ff9f.png)
+
+<br>
+<hr color ="red">
+<br>
 # Features
 * Full featured shopping cart
 * Product reviews and ratings
@@ -25,7 +40,7 @@ This project is from my Django + React collaboration wih Brad Traversy. Full Cou
 
 # Download & Setup Instructions
 
-* 1 - Clone project: git clone https://github.com/divanov11/proshop_django/
+* 1 - Clone project: git clone (https://github.com/VARIOUS-ONE/WEB)
 * 2 - cd proshop_django
 * 3 - Create virtual environment: virtualenv myenv
 * 4 - myenv\scripts\activate
