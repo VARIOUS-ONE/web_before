@@ -18,6 +18,12 @@
 <hr>
 <br><br>
 
+![review](https://user-images.githubusercontent.com/71229129/186232273-b6a9dadc-9f68-4b70-bb3a-31d8cf8d57cf.png)
+
+<br><br>
+<hr>
+<br><br>
+
 ![KakaoTalk_20220824_021117269](https://user-images.githubusercontent.com/71229129/186227051-a57e6cac-128a-4106-8ed8-b0184b92ff9f.png)
 
 <br><br>
