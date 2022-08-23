@@ -30,7 +30,11 @@
 <hr color ="red">
 <br><br>
 
+![detail](https://user-images.githubusercontent.com/71229129/186233261-6117925d-08e7-4d11-802f-67132d64c2ef.png)
 
+<br><br>
+<hr color ="red">
+<br><br>
 # Features
 * Full featured shopping cart
 * Product reviews and ratings
