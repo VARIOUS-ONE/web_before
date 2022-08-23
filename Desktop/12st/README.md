@@ -38,18 +38,19 @@
 
 
 # Features
-* Full featured shopping cart
-* Product reviews and ratings
-* Top products carousel
-* Product pagination
-* Product search feature
-* User profile with orders
-* Admin product management
-* Admin user management
-* Admin Order details page
-* Mark orders as delivered option
-* Checkout process (shipping, payment method, etc)
-* PayPal / credit card integration
+
+전체 장바구니
+제품 리뷰 및 등급
+상위 제품 회전목마
+제품 페이지 번호
+제품 검색 기능
+주문이 있는 사용자 프로필
+관리제품관리
+관리 사용자 관리
+관리 주문 세부 정보 페이지
+주문을 배달 옵션으로 표시
+체크아웃 프로세스(배송, 결제 방법 등)
+페이팔/신용카드 통합
 
 
 # Download & Setup Instructions
