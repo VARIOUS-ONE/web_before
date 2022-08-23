@@ -1,4 +1,4 @@
-# PropShop Ecommerce Website With Django + React
+# 1번가 Ecommerce Website With Django + React
 
 
 
