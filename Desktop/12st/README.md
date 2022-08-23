@@ -1,28 +1,28 @@
 # 12번가 Ecommerce Website With Django + React
-
+<br><br>
 
 ![KakaoTalk_20220824_021043989](https://user-images.githubusercontent.com/71229129/186226854-3564670b-45d6-413c-ba22-d17b9d855fed.png)
-<br>
+<br><br>
 <hr>
-<br>
+<br><br>
 
 ![KakaoTalk_20220824_021233149](https://user-images.githubusercontent.com/71229129/186227038-77baa68f-c391-43bb-8892-4a50d75b6532.png)
 
-<br>
+<br><br>
 <hr>
-<br>
+<br><br>
 
 ![KakaoTalk_20220824_021600733](https://user-images.githubusercontent.com/71229129/186227049-92f06653-20f0-41b3-b174-a3e76c4d32bb.png)
 
-<br>
+<br><br>
 <hr>
-<br>
+<br><br>
 
 ![KakaoTalk_20220824_021117269](https://user-images.githubusercontent.com/71229129/186227051-a57e6cac-128a-4106-8ed8-b0184b92ff9f.png)
 
-<br>
+<br><br>
 <hr color ="red">
-<br>
+<br><br>
 # Features
 * Full featured shopping cart
 * Product reviews and ratings
