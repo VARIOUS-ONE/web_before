@@ -65,3 +65,10 @@
 # Install react modules
 * 1 - cd frontend
 * 2 - npm install
+
+<br><br><hr><br><br>
+
+# ~~~~~ing
+* 유저 부분 : 1. 긍부정 컬러링  2. 가짜댓글  3. 워드클라우드 + 리뷰요약+Toast  
+* 판매자 부분 : 1. 운영진 페이지 호출  2. 판매자 판매 목록 차트 정리 관리 탭 만들기  3. 웹 or 이메일 or PDF 보고서( +비교) , 
+* 그 외 )  제목추천 , 프엔 꾸미기 작업
