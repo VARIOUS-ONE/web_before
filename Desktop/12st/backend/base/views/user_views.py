@@ -33,13 +33,13 @@ def registerUser(request):
     data = request.data
     try:
         user = User.objects.create(
-            first_name=data['name'],
-            username=data['email'],
+            #first_name=data['first_name'],
+            username=data['name'],
             email=data['email'],
             password=make_password(data['password'])
         )
 
-        serializer = UserSerializerWithToken(user, many=False)
+        serializer = UserSerializer(user, many=False)
         return Response(serializer.data)
     except:
         message = {'detail': 'User with this email already exists'}
