@@ -21,7 +21,7 @@ function Header() {
             <Navbar bg="dark" variant="dark" expand="lg" collapseOnSelect>
                 <Container>
                     <LinkContainer to='/'>
-                        <Navbar.Brand>1번가</Navbar.Brand>
+                        <Navbar.Brand>12 번가</Navbar.Brand>
                     </LinkContainer>
 
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -61,6 +61,10 @@ function Header() {
 
                                     <LinkContainer to='/admin/orderlist'>
                                         <NavDropdown.Item>Orders</NavDropdown.Item>
+                                    </LinkContainer>
+
+                                    <LinkContainer to='/admin/Graphiclist'>
+                                        <NavDropdown.Item>Graphic</NavDropdown.Item>
                                     </LinkContainer>
 
                                 </NavDropdown>
